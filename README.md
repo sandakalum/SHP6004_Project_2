@@ -31,7 +31,7 @@ Model building for MIMIC Dataset
 # Models using Baseline data 
  * LOS predisction (Classification), predicting LOS within 30 days in time intervals (1-3, 4-7 or 8-30 days)
         
-        LOS_Classification.py
+        LOS_Classification.py (requires Utils.py)
  * LOS prediction (Regression), prediction of LOS within 30 days
         
-        LOS_Regression.py
+        LOS_Regression.py (requires utils.py)
