@@ -29,5 +29,9 @@ Model building for MIMIC Dataset
   
         Discharge_LOS_Classification(48_hours)_Time_Series_Data.ipynb
 # Models using Baseline data 
- * LOS Classification, predicting if LOS is in time intervals (1-3, 4-7 or 8-30 days)
+ * LOS predisction (Classification), predicting LOS within 30 days in time intervals (1-3, 4-7 or 8-30 days)
         
+        LOS_Classification.py
+ * LOS prediction (Regression), prediction of LOS within 30 days
+        
+        LOS_Regression.py
