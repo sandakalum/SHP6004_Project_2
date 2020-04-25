@@ -28,3 +28,6 @@ Model building for MIMIC Dataset
   * LOS > 48 hours classification for Patients who were discharged from the ICU
   
         Discharge_LOS_Classification(48_hours)_Time_Series_Data.ipynb
+# Models using Baseline data 
+ * LOS Classification, predicting if LOS is in time intervals (1-3, 4-7 or 8-30 days)
+        
